@@ -5,15 +5,13 @@
 
 .main-heading{
   text-align: center;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .App{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  height: 70vh;
 }
 
 .card{
@@ -32,7 +30,7 @@
 }
 
 .card-body{
-  height: 130px;
+  height: 160px;
   padding: 25px;
   text-align: center;
 }
@@ -56,6 +54,7 @@
   font-weight: bold;
   padding: 5px 8px;
 }
+
 
 .br-18{
   border-radius: 15px;
